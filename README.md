@@ -15,5 +15,5 @@ Let's chat about potential projects, job opportunities, or any other collaborati
 
 ## Video
 
- ![Video 1](https://github.com/ZohaibKhanDev/InstaPager/blob/master/app/assests/1.webm)
+https://github.com/ZohaibKhanDev/InstaPager/blob/master/app/assests/1.webm
 
